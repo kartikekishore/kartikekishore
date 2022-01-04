@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 <h3 align="left">I'm a 
     🎓 Computer Science & Engineering Pre-final Student at
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
+     <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
      <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Bhilai, India</h5>
 
-
-
 <!-- Connect with me -->
-<div > 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
+<div >
+
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/kartike-kishore-2163861a4/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
