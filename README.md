@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <h3 align="left">📍 Currently base at: Bhilai, India</h3>
 
 <!-- Connect with me -->
+<br>
 <div >
-
 <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/kartike-kishore-2163861a4/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
