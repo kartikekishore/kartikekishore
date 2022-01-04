@@ -19,7 +19,7 @@ Here are some ideas to get you started:
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
      <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
      <h3 align="left"> Glad to see you here! :smile: </h3>
-<h5 align="left">📍 Currently base at: Bhilai, India</h5>
+<h3 align="left">📍 Currently base at: Bhilai, India</h3>
 
 <!-- Connect with me -->
 <div >
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 </p>
 </div>
-
+<br>
 <!-- Language and tools section -->
 <h2 align='left''> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p align='left'>
