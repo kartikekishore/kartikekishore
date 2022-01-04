@@ -43,12 +43,14 @@ Here are some ideas to get you started:
 
  <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
+<img width ='44px' align='center' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhnWKpdLN5UNEf0ucthQXDWuvCl-3jxEfNg&usqp=CAU'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
  <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg'>
  <img width ='44px' align='center' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
+<img width ='44px' align='center' src ='https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png'>
+
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
                                      
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
