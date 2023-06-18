@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <a href = 'https://github.com/kartikekishore'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kartikekishore.kartikekishore)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikekishore&label=Profile%20views&color=0e75b6&style=flat" alt="kartikekishore" /> </p>
 
 </p>
 </div>
