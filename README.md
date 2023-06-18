@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Kartike Kishore</h1>
 <h3 align="left">I’m currently learning Web-development and Competetive Coding.</h3>
 <h3 align="left">I'm a 
-    🎓 Computer Science & Engineering Final Year Student at
+    🎓 Computer Science & Engineering Undergraduate
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
      <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
      <h3 align="left"> Glad to see you here! :smile: </h3>
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 <a href = 'https://www.instagram.com/kartikekishore21/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 <a href = 'https://github.com/kartikekishore'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kartikekishore.kartikekishore)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikekishore&label=Profile%20views&color=0e75b6&style=flat" alt="kartikekishore" /> </p>
 
 </p>
