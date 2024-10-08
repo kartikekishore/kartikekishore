@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="left">I’m currently working as an SDE, enjoying Java and the Spring framework. Trying to keep in touch with Competitive Coding.</h3>
 <h3 align="left">I'm a 🎓 Computer Science & Engineering Undergraduate at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="250"/>
 
 <h3 align="left">Glad to see you here! 😊</h3>
 <h3 align="left">📍 Currently based in: Bangalore, India</h3>
