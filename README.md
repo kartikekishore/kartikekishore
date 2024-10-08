@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>, I'm Kartike Kishore</h1>
-<h3 align="left">I’m currently learning Web-development and Competetive Coding.</h3>
+<h3 align="left">I’m currently working as SDE, enjoying Java and spring framework. Try to keep in touch with Competetive Coding.</h3>
 <h3 align="left">I'm a 
     🎓 Computer Science & Engineering Undergraduate
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
      <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
      <h3 align="left"> Glad to see you here! :smile: </h3>
-<h3 align="left">📍 Currently base at: Bhilai, India</h3>
+<h3 align="left">📍 Currently base at: Bangalore, India</h3>
 
 <!-- Connect with me -->
 <br>
