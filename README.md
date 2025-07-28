@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
   <p align='left'>
     <a href='https://www.linkedin.com/in/kartike-kishore-2163861a4/'> <img width='35px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-    <a href='https://www.instagram.com/kartikekishore21/'> <img width='35px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+
     <a href='https://github.com/kartikekishore'> <img width='35px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   </p>
 
