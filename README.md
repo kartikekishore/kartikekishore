@@ -19,7 +19,7 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as an **SDE**, building scalable applications with **Java & the Spring Framework**.
-- 🌱 I enjoy solving problems and keeping my skills sharp with **Competitive Programming**.
+- 🌱 I enjoy solving problems and keeping my skills sharp with **Sports Programming**.
 - 🎓 I graduated with a degree in Computer Science & Engineering from **IIT (ISM) Dhanbad**.
 - ⚡ Fun fact: I believe the best code is not just functional, but also clean and elegant.
 
@@ -86,13 +86,30 @@ Here are some of the languages, frameworks, and tools I work with:
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Sports Programming
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikekishore&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kartike's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikekishore&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://codeforces.com/profile/kary_" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/kary_kk" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://leetcode.com/kartikekishore/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://atcoder.jp/users/Karyop" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-2C2C2C?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/>
+  </a>
 </p>
+
+#### Highlights
+- **Codeforces:** **Expert** with a max rating of **1619** and **600+** problems solved. Achieved a global rank of **419** in CF Round 707.
+- **CodeChef:** **5-Star** coder with a max rating of **2038** and **100+** problems solved. Secured top ranks of **93** and **156** in major contests.
+- **LeetCode:** Contest rating of **1760** with **11 badges** and **450+** problems solved.
+- **AtCoder:** Max rating of **1038** with **210+** problems solved.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartikekishore&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views count" />
