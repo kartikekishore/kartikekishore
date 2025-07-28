@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <h2 align='left'> Languages and Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"></h2>
 
 <p align='left'>
+  
+  <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
+  <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/springboot.svg'>
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
   <img width='44px' align='center' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlhnWKpdLN5UNEf0ucthQXDWuvCl-3jxEfNg&usqp=CAU'>
@@ -58,5 +61,4 @@ Here are some ideas to get you started:
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-  <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
 </p>
