@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Kartike Kishore</h1>
 <h3 align="left">I’m currently working as an SDE, enjoying Java and the Spring framework. Trying to keep in touch with Competitive Coding.</h3>
-<h3 align="left">I'm a 🎓 Computer Science & Engineering Undergraduate at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
+<h3 align="left">I'm a 🎓 Computer Science & Engineering Undergraduate from <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 
 <div>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="350"/>
@@ -58,4 +58,5 @@ Here are some ideas to get you started:
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
   <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
+  <img width='44px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
 </p>
