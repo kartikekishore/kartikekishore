@@ -60,10 +60,10 @@
 
 ### 📚 Core Competencies
 
--   **Languages:** C++, Java, Python, JavaScript, TypeScript, SQL
--   **Web Development:** React.js, Node.js, Express, Spring Boot, Hibernate, MongoDB, Material-UI (Mui)
--   **Tools & Platforms:** Git, GitHub, Bitbucket, Docker, Apache Kafka, Nomad, Camunda, Jira, Confluence
--   **Core Concepts:** Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms
+- **Languages:** C++, Java, Python, JavaScript, TypeScript, SQL
+- **Web Development:** React.js, Node.js, Express, Spring Boot, Hibernate, MongoDB, Material-UI (Mui)
+- **Tools & Platforms:** Git, GitHub, Bitbucket, Docker, Apache Kafka, Nomad, Camunda, Jira, Confluence
+- **Core Concepts:** Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms
 
 ---
 
@@ -85,10 +85,10 @@
 </p>
 
 #### Highlights
-- **Codeforces:** **Expert** with a max rating of **1619** and **600+** problems solved. Achieved a global rank of **419** in CF Round 707.
-- **CodeChef:** **5-Star** coder with a max rating of **2038** and **100+** problems solved. Secured top ranks of **93** and **156** in major contests.
-- **LeetCode:** Contest rating of **1760** with **11 badges** and **450+** problems solved.
-- **AtCoder:** Max rating of **1038** with **210+** problems solved.
+- **Codeforces:** **Expert** (Max: **1619**). Global rank **419** in CF Round 707.
+- **CodeChef:** **5-Star** (Max: **2038**). Top ranks: **93** and **156** in major contests.
+- **LeetCode:** Rating **1760** with **11 badges** and **450+** problems solved.
+- **AtCoder:** Max rating **1038** with **210+** problems solved.
 
 ---
 
